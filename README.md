@@ -14,7 +14,6 @@ The project focuses on combining conversational AI, real-time retrieval, respons
 -  Context-aware conversational flow
 -  Optimized markdown, tables, and structured response rendering
 -  Modern dark-themed responsive UI
--  Mobile-friendly interface and layouts
 -  Persistent chat history sidebar
 -  Smooth animations, transitions, and interaction states
 -  Multi-model AI routing and response handling
