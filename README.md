@@ -5,22 +5,22 @@ BrainSnack AI is a full-stack AI-powered conversational web application designed
 The project focuses on combining conversational AI, real-time retrieval, responsive frontend engineering, and smooth user experience into a production-style AI assistant experience.
 
 
-## 🚀 Features
+##  Features
 
-- 💬 Real-time AI conversational assistant
-- 🌐 Live web-grounded factual search integration
-- ⚡ Streaming AI responses for natural interaction
-- 🧠 Smart explanation, summarization, and fun-fact modes
-- 🔄 Context-aware conversational flow
-- 📊 Optimized markdown, tables, and structured response rendering
-- 🎨 Modern dark-themed responsive UI
-- 📱 Mobile-friendly interface and layouts
-- 🕘 Persistent chat history sidebar
-- ✨ Smooth animations, transitions, and interaction states
-- 🚀 Multi-model AI routing and response handling
+-  Real-time AI conversational assistant
+-  Live web-grounded factual search integration
+-  Streaming AI responses for natural interaction
+-  Smart explanation, summarization, and fun-fact modes
+-  Context-aware conversational flow
+-  Optimized markdown, tables, and structured response rendering
+-  Modern dark-themed responsive UI
+-  Mobile-friendly interface and layouts
+-  Persistent chat history sidebar
+-  Smooth animations, transitions, and interaction states
+-  Multi-model AI routing and response handling
 
 
-## 🧠 Engineering Highlights
+##  Engineering Highlights
 
 - Architected a real-time streaming AI interaction system
 - Integrated live search-grounded factual response generation
@@ -31,7 +31,7 @@ The project focuses on combining conversational AI, real-time retrieval, respons
 - Focused heavily on UI/UX polish, stability, and mobile responsiveness
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML
@@ -47,7 +47,7 @@ The project focuses on combining conversational AI, real-time retrieval, respons
 - Serper API
 
 
-## 🎯 Project Focus
+##  Project Focus
 
 BrainSnack AI was built to explore:
 - conversational AI systems
@@ -60,7 +60,7 @@ BrainSnack AI was built to explore:
 The project emphasizes building a polished AI web application rather than a basic chatbot prototype.
 
 
-## 📱 UI & UX
+##  UI & UX
 
 The interface was designed with strong focus on:
 - clean conversational layouts
