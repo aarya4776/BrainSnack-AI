@@ -1,0 +1,18 @@
+{
+    "name": "brainsnack",
+    "version": "2.0.0",
+    "description": "BrainSnack — AI study assistant powered by OpenRouter",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.6",
+        "dotenv": "^17.4.2",
+        "express": "^5.2.1"
+    }
+}
